@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Alaine
-I'm a Software Engineer working with [@bbc](https://github.com/bbc)  
+I'm a Software Engineering Team Lead working with [@bbc](https://github.com/bbc)  
 You can contact me on [LinkedIn](https://www.linkedin.com/in/alaine-miller-b249ab133)  
 
 ## Languages, Platforms and Tooling
